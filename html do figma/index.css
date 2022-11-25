@@ -1,0 +1,60 @@
+html{
+    height: 852px;
+}
+
+body{
+    width: 90%;
+    height: 80%;
+    background-image: url('./imgs/9bff26a630b81cfcc55915cd6bf401a1.jpg');
+    background-position: 48%;
+}
+
+#logo{
+    width: 45vw;
+    height: 17vh;
+    margin-top: 17vh;
+    margin-left: 25vw;
+}
+
+img{
+    width: 190px;
+    height: 175px;
+    border-radius: 20px;
+    
+}
+
+#login{
+position: absolute;
+background-color: #ffff;
+border-radius: 30px;
+width: 269px;
+height: 65px;
+left: 64px;
+top: 485px;
+font-family:'Play';
+font-style: normal;
+font-weight: 400px;
+font-size: 48px;
+line-height: 56px;
+}
+
+#cadastro{
+position: absolute;
+background-color: #ffff;
+width: 269px;
+height: 63px;
+border-radius: 30px;
+left: 64px;
+top: 585px;
+font-family:'Play';
+font-style: normal;
+font-weight: 400px;
+font-size: 48px;
+line-height: 56px;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    color: #000;
+}
